@@ -1,0 +1,37 @@
+/*
+ * Decompiled with CFR 0.150.
+ * 
+ * Could not load the following classes:
+ *  org.jetbrains.annotations.NotNull
+ */
+package dev.nuker.pyro;
+
+import dev.nuker.pyro.f3X;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import org.jetbrains.annotations.NotNull;
+
+public class f3W
+implements f3X {
+    public static f3W Field3944;
+
+    @Override
+    public Object Method5602(DataInputStream dataInputStream) {
+        return this.Method5636(dataInputStream);
+    }
+
+    @Override
+    public void Method5603(@NotNull Object object, @NotNull DataOutputStream dataOutputStream) {
+        dataOutputStream.writeUTF((String)object);
+    }
+
+    static {
+        f3W f3W2;
+        Field3944 = f3W2 = new f3W();
+    }
+
+    public String Method5636(@NotNull DataInputStream dataInputStream) {
+        return dataInputStream.readUTF();
+    }
+}
+
