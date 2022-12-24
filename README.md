@@ -8,5 +8,10 @@ Real Pyro Client Source Code
 ![изображение](https://user-images.githubusercontent.com/88904139/209443756-891c31b7-6e73-4bcb-b0b8-b2c185dee335.png)
 
 ![изображение](https://user-images.githubusercontent.com/88904139/209443872-88a2c4a2-7be5-40c5-83a6-ee31b0b50c46.png)
+
+![изображение](https://user-images.githubusercontent.com/88904139/209444152-1792a970-a6d2-4ce9-aa83-9d27b7b7566f.png)
+
+![изображение](https://user-images.githubusercontent.com/88904139/209444208-0476b2cd-34ac-43a4-a85f-1bf5545bdb14.png)
+
 # Outcome
 He published the decrypted Summit which he previously encrypted
